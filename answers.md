@@ -35,3 +35,29 @@ Untracked files:
 	answers.md
 
 Answer 6:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
+Answer 7:
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 8:
+commit c277078019d2c05e2250cb2b3f16ff95f6884be2 (HEAD -> master)
+Author: Andrew Chamberlain <ac828223@ohio.edu>
+Date:   Mon Sep 9 15:50:41 2024 -0400
+
+    Initial commit
+
+Answer 9:
